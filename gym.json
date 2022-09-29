@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "title": "BENCH PRESS",
+        "time": 20,
+        "description": "An exercise that’s key for building upper body strength. To perform this exercise properly, you’ll need to use an Olympic bar or dumbbells for better muscle recruitment.",
+        "img": "https://fariafarzanamukta.github.io/gym-react/image/bench-press.jpg"
+    },
+    {
+        "id": "2",
+        "title": "BOSU SQUATS",
+        "time": 25,
+        "description": "The unstable surface will help develop core strength, balance and strengthen the ankle stabilisers, which can help prevent common ankle injuries that footballers suffer from.",
+        "img": "https://fariafarzanamukta.github.io/gym-react/image/Bosu-Squats.jpg"
+    },
+    {
+        "id": "3",
+        "title": "BOX JUMP",
+        "time": 30,
+        "description": "This is a plyometric movement that will help develop strength and power in your legs, specifically the hamstrings, glute's and quads.movement that starts with a muscle",
+        "img": "https://fariafarzanamukta.github.io/gym-react/image/box-jump.jpg"
+    },
+    {
+        "id": "4",
+        "title": "FOAM ROLLER",
+        "time": 20,
+        "description": "Using a foam roller both before and after exercise helps massage away knots and tightness in your muscles, which in turn helps prevent injuries.It also increases flexibility ",
+        "img": "https://fariafarzanamukta.github.io/gym-react/image/Foam-Roller.jpg"
+    },
+    {
+        "id": "5",
+        "title": "KNEELING PRESS-UP",
+        "time": 25,
+        "description": "An exercise that’s key for building upper body strength. To perform this exercise properly, you’ll need to use an Olympic bar or dumbbells for better muscle recruitment.",
+        "img": "https://fariafarzanamukta.github.io/gym-react/image/kneeling-press-ups.jpg"
+    },
+    {
+        "id": "6",
+        "title": "LEG RAISES",
+        "time": 30,
+        "description": "An exercise that’s key for building upper body strength. To perform this exercise properly, you’ll need to use an Olympic bar or dumbbells for better muscle recruitment.",
+        "img": "https://fariafarzanamukta.github.io/gym-react/image/Leg raises.jpg"
+    },
+    {
+        "id": "7",
+        "title": "PLANK",
+        "time": 25,
+        "description": "This is a fantastic exercise for your core that can be done in loads of different ways. You can also perform a plank at both high and low intensity levels.It is good for us",
+        "img": "https://fariafarzanamukta.github.io/gym-react/image/Plank.jpg"
+    },
+    {
+        "id": "8",
+        "title": "SQUAT",
+        "time": 20,
+        "description": "To achieve the best results, use a heavy weight, with fewer reps to increase strength and muscle mass, or use lighter weights(or simply your body weight) with explosive .",
+        "img": "https://fariafarzanamukta.github.io/gym-react/image/Squat.jpg"
+    },
+    {
+        "id": "9",
+        "title": "TREADMILL INTERVAL",
+        "time": 35,
+        "description": "Playing a game for 90 minutes requires you to have great endurance combined with the ability to put in short bursts of maximum effort. Try a TABATA-style 20 second sprint",
+        "img": "https://fariafarzanamukta.github.io/gym-react/image/Treadmill.jpg"
+    }
+]
